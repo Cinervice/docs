@@ -1,2 +1,2 @@
 # core
-The server side's core of Cinervice 
+This repository contains only the public documentation.
